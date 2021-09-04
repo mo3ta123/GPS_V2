@@ -75,7 +75,6 @@ int main(void){
 	
 	//program
 	while (1){
-		vLCD_String("worked ");
 		
 		/// GetData_Phase
 		if(Next_Phase == GetData_Phase){
